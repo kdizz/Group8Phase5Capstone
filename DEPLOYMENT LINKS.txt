@@ -1,0 +1,5 @@
+https://3nfhv5xrewi5db4bnccaaj.streamlit.app/  - Moving Average
+
+https://dtesspt5phbkjjphfqgnqb.streamlit.app/  - Exponential Smoothing
+
+https://yvgduwvqd7ewzqbjnj9p5d.streamlit.app/  - Prophet 
