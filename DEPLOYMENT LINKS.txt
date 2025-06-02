@@ -5,3 +5,5 @@ https://dtesspt5phbkjjphfqgnqb.streamlit.app/  - Exponential Smoothing
 https://yvgduwvqd7ewzqbjnj9p5d.streamlit.app/  - Prophet 
 
 https://lsggpmqdobdhcttbnfse8o.streamlit.app/  - XGBoost
+
+https://lyxju5v4sjnfcraat7tpa7.streamlit.app/  - ARIMA
